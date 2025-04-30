@@ -1,12 +1,12 @@
-## seja bem vindo(a) ao meu perfil!!💫
+## 💫 Seja bem vindo(a) ao meu perfil!!
 
-_meu nome é samira caetano._ 😸
+_Eu sou a Samira Caetano._ 😸
 
-- estou estudando no [alura](https://www.alura.com.br)  na escola EE Júlio Fortes, no 2° ano do ensino médio.
-- estou me desenvolvendo na linguagem JavaScript.
-- utilizo esse espaço para a organização e compatilhamento dos meus projetos desenvolvidos.
+- Aluna do 3º ano do ensino médio da Escola Estadual Júlio Fortes.
+- Faço cursos de desenvlvimento em JavaScript, HTML, entre outro na plataforma: [alura](https://www.alura.com.br)
+- Utilizo esse espaço para a organização e compatilhamento dos meus projetos desenvolvidos.
 
-## você pode entrar em contato comigo📲
+## 📲 Você pode entrar em contato comigo, se precisar, por aqui:
 
-- instagram: [@csx.sammy](https://www.instagram.com/csx.sammy?igsh=dXRtdTVxcDlrcmE2)
-- email: samiracaetano1331@gmail.com 
+- Instagram: [@staarscaetano](https://www.instagram.com/staarscaetano?igsh=dXRydTVxcDlrcmE2)
+- Email: samiracaetano1331@gmail.com 
