@@ -1,10 +1,11 @@
-## 💫 Seja bem vindo(a) ao meu perfil!!
+## ⭐️ Seja bem vindo(a) ao meu perfil!
 
-_Eu sou a Samira Caetano._ 😸
+_Eu sou a Samira Caetano._
 
-- Aluna do 3º ano do ensino médio da Escola Estadual Júlio Fortes.
-- Faço cursos de desenvlvimento em JavaScript, HTML, entre outros na plataforma: [alura](https://www.alura.com.br)
+- Estou estudando Analise e Desenvolvimento de Sistemas, na [Fatec Cruzeiro](https://www.fateccruzeiro.edu.br/)
+- Já fiz cursos sobre HTML, CSS e outros quando estava no ensino médio pela plataforma: [alura](https://www.alura.com.br)
 - Utilizo esse espaço para a organização e compatilhamento dos meus projetos desenvolvidos.
+- Estou frequentemente tentando aprimorar minhas habilidades tecnológicas.
 
 ## 📲 Você pode entrar em contato comigo, se precisar, por aqui:
 
