@@ -1,13 +1,22 @@
-## ⭐️ Seja bem vindo(a) ao meu perfil!
+## ⭐ Seja bem-vindo(a) ao meu perfil!
 
-_Eu sou a Samira Caetano._
+Olá! Eu sou a Samira Caetano 👋  
+Sou estudante de **Análise e Desenvolvimento de Sistemas**, em início de carreira na área de Tecnologia da Informação.
 
-- Estou estudando Analise e Desenvolvimento de Sistemas, na [Fatec Cruzeiro](https://www.fateccruzeiro.edu.br/)
-- Já fiz cursos sobre HTML, CSS e outros quando estava no ensino médio pela plataforma: [alura](https://www.alura.com.br)
-- Utilizo esse espaço para a organização e compatilhamento dos meus projetos desenvolvidos.
-- Estou frequentemente tentando aprimorar minhas habilidades tecnológicas.
+Atualmente, estou focada em aprender e aprimorar meus conhecimentos em **desenvolvimento web**, com ênfase em **HTML e CSS**, por meio de cursos e projetos práticos. Durante o ensino médio, desenvolvi alguns projetos como forma de aplicar na prática os conteúdos estudados, que hoje utilizo como base para minha evolução na área.
 
-## 📲 Você pode entrar em contato comigo, se precisar, por aqui:
+Utilizo este espaço para:
+- Organizar e compartilhar meus projetos
+- Praticar e consolidar meus estudos
+- Acompanhar minha evolução como desenvolvedora
 
-- Instagram: [@staarscaetano](https://www.instagram.com/staarscaetano?igsh=dXRydTVxcDlrcmE2)
-- Email: samiracaetano1331@gmail.com 
+## 🛠 **Tecnologias e ferramentas**
+- HTML
+- CSS
+- GitHub
+- VS Code
+
+## 📌 Estou constantemente buscando aprender novas tecnologias e melhorar minhas habilidades técnicas, com o objetivo de conquistar minha primeira oportunidade profissional na área de TI.
+
+## 📫 **Contato**
+- E-mail: samiracaetano1331@gmail.com
